@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Score4</h3>
+  <h3 align="center">Connect4</h3>
 </p>
 
 
