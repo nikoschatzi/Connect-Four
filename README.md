@@ -17,13 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes the implementation of Score4 game. 
-The algorithm was implemented in the VLSI course of the 9th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
-  
-This implementation uses:
-- two primes to calculate n    
-- extended GCD method to find the private key(d)    
-- Miller-Rabin for primality checking  
-- key size 2048 (but it can be easily adjusted for any key size)  
+This project was implemented in the VLSI course of the 9th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
 
 
 <!-- GETTING STARTED -->
