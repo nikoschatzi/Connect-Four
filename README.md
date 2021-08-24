@@ -22,7 +22,7 @@ This project was implemented in the VLSI course of the 8th semester of ECE DUTh 
 To get started make sure you have installed all the prerequisites in your computer.
 
 ### Prerequisites
-To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software. Then execute the following commands in ModelSim: 
+To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software. Then execute the following commands in ModelSim:   
 -cd c:/workspace/Connect-Four (project's folder)  
 -vlib work  
 -vlog score4.sv score4_tb.sv  
