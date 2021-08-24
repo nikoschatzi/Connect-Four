@@ -13,7 +13,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes the implementation of Score4 game. 
+The repository includes the implementation of [Connect Four game](https://en.wikipedia.org/wiki/Connect_Four). 
 This project was implemented in the VLSI course of the 8th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
 
 
@@ -22,12 +22,9 @@ This project was implemented in the VLSI course of the 8th semester of ECE DUTh 
 To get started make sure you have installed all the prerequisites in your computer and then follow the instuctions in the installation section.
 
 ### Prerequisites
-To compile this implementation of RSA you will need:
-- [cmake](https://cmake.org/download/)
-- [boost](https://www.boost.org/users/download/) library, which can also be extracted from the 7z included
-  - Make sure to include the path of the library in the CMakeLists
-- A compiler that supports std11 and threading
-  - (This project was tested with [mingw64](http://mingw-w64.org/doku.php) version 8)
+To compile this implementation of Connect Four game you will need:
+- ModelSim-Intel® FPGA Edition Software 
+- Submit produced frames to an [online VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
 
 ### Installation
 To run the example: 
