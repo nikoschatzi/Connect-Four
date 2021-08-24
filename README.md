@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes the implementation of Score4 game. 
-This project was implemented in the VLSI course of the 9th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
+This project was implemented in the VLSI course of the 8th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
 
 
 <!-- GETTING STARTED -->
