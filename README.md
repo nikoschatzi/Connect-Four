@@ -14,30 +14,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes the implementation of [Connect Four game](https://en.wikipedia.org/wiki/Connect_Four). 
-This project was implemented in the VLSI course of the 8th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
+This project was implemented in the VLSI course of the 8th semester of ECE DUTh which was supervised by the Associate Professor George Dimitrakopoulos.
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To get started make sure you have installed all the prerequisites in your computer and then follow the instuctions in the installation section.
+To get started make sure you have installed all the prerequisites in your computer.
 
 ### Prerequisites
-To compile this implementation of Connect Four game you will need:
-- ModelSim-Intel® FPGA Edition Software 
-- Submit produced frames to an [online VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
-
-### Installation
-To run the example: 
-- Open the example folder and type:
-```
-mkdir build
-cd build
-cmake ..
-make
-```
-- Add a file named plain.txt with the message you want to encrypt before running the output file.
-
-To run the tests, follow the same procedure.
+- To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software.  
+- To visualize the frames produces by the code use the online [VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
 
 
 <!-- CONTRIBUTING -->
