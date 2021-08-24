@@ -13,7 +13,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes the implementation of [Connect Four game](https://en.wikipedia.org/wiki/Connect_Four). 
+The repository includes the implementation of [Connect Four game](https://en.wikipedia.org/wiki/Connect_Four) in SystemVerilog. 
+
+The game can be played in one FPGA using the code in [code_for_one_FPGA](https://github.com/nikoschatzi/Connect-Four/tree/main/code_for_one_FPGA) folder or in two FPGAs using the code in [code_for_two_FPGAs](https://github.com/nikoschatzi/Connect-Four/tree/main/code_for_two_FPGAs) folder. A function `automatic_player()` implementing a "smart" automatic opponent, with whom you can play against, is also included in the code.
+
+
 This project was implemented in the VLSI course of the 8th semester of ECE DUTh which was supervised by the Associate Professor George Dimitrakopoulos.
 
 
