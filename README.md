@@ -22,8 +22,10 @@ This project was implemented in the VLSI course of the 8th semester of ECE DUTh 
 To get started make sure you have installed all the prerequisites in your computer.
 
 ### Prerequisites
-- To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software.  
-- To visualize the frames produces by the code use the online [VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
+To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software.  
+
+
+To visualize the frames produced by the code use the online [VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
 
 
 <!-- CONTRIBUTING -->
