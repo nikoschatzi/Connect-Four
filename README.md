@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes the implementation of Score4 game. 
-The algorithm was implemented in the Computer Systems Security course of the 9th semester of DUTh.
+The algorithm was implemented in the VLSI course of the 9th semester of ECE DUTh which was supervised by Associate professor George Dimitrakopoulos.
   
 This implementation uses:
 - two primes to calculate n    
