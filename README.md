@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://github.com/emmanouilidisk/RSA_Algorithm/blob/main/Demonstration.gif" align="center" width="705" height="380" />
+<img src="https://github.com/nikoschatzi/Score4/blob/main/1.png" align="center" width="705" height="380" />
 </p>
 
 
