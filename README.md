@@ -23,11 +23,11 @@ To get started make sure you have installed all the prerequisites in your comput
 
 ### Prerequisites
 To compile this implementation of Connect Four game you will need ModelSim-Intel® FPGA Edition Software. Then execute the following commands in ModelSim: 
--cd c:/workspace/Connect-Four (project's folder)
--vlib work
--vlog score4.sv score4_tb.sv
--vsim -novopt score4_tb
--run all
+-cd c:/workspace/Connect-Four (project's folder)  
+-vlib work  
+-vlog score4.sv score4_tb.sv  
+-vsim -novopt score4_tb  
+-run all  
 
 
 To visualize the frames produced by the code use the online [VGA simulator](https://www.ericeastwood.com/lab/vga-simulator/).
