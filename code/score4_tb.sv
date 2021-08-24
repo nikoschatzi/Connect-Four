@@ -87,73 +87,78 @@ initial begin
 	
 	case(scenario)
 	MY_GAME: begin 
-	
-		//=====================  mitso des nikaei o automatic  ========================
-		
-		automatic_strategy();
-		automatic_put();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_right();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_left();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		
-		
-		//=====================  Uncomment the following to check that automatic player wins in row ========================
-		/*
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_right();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		*/
-		
-		//=====================  Uncomment the following to check that automatic player wins in diagonal ========================
-		/*
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_left();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_right();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_left();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_left();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		go_right();
-		lets_put();
-		automatic_strategy();
-		automatic_put();
-		*/
-		
 		// YOUR GAME HERE
 		// Choose your moves: go_right(), go_left(), lets_put()
 		
-		//the following are tested
-		//=====================  Uncomment the following to check that automatic player finds threat in column ========================
+		
+		//
+		//=====================  Uncomment one of the following test cases ========================
+		//
+		
+		//=====================  Test case 1: automatic player wins (uncommented test case) ========================
+		
+		automatic_strategy();
+		automatic_put();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_right();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_left();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		
+		
+		//=====================  Test case 2: automatic player wins playing in rows ========================
+		/*
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_right();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		*/
+		
+		//=====================   Test case 3: automatic player wins playing in diagonal ========================
+		/*
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_left();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_right();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_left();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_left();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		go_right();
+		lets_put();
+		automatic_strategy();
+		automatic_put();
+		*/
+		
+		
+		
+		//=====================  Test case 4: automatic player detects a threat in a column ========================
 		/*
 		//player 0
 		go_right();
@@ -192,7 +197,7 @@ initial begin
 		*/
 		
 		
-		//=====================  Uncomment the following to check that automatic player finds threat in rows ========================
+		//=====================  Test case 5: automatic player detects a threat in rows ========================
 		/*
 		//player 0
 		go_right();
