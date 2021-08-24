@@ -16,7 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes a class implementing RSA algorithm, an example showing its use and a script to test it. 
+The repository includes the implementation of Score4 game. 
 The algorithm was implemented in the Computer Systems Security course of the 9th semester of DUTh.
   
 This implementation uses:
